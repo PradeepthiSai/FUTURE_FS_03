@@ -4,6 +4,13 @@ A modern and responsive multi-cuisine restaurant website designed to help local 
 
 The Fusion Fork is built with a clean, visually appealing, and user-friendly interface focused on affordability, comfort, and modern dining experiences. The website combines stylish UI/UX design with practical restaurant business features to create a professional digital experience for customers.
 
+
+# 🌐 Live Demo
+
+🔗 https://pradeepthisai.github.io/the-fusion-fork/
+
+
+
 ---
 
 # 🚀 Project Pitch
